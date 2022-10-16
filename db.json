@@ -1,0 +1,38 @@
+{
+"products": [
+  [
+    {
+      "product_name": "T-Shirt",
+      "price": 5.05,
+      "image_url": "https://www.kindpng.com/picc/m/9-96254_plain-yellow-t-shirt-png-image-background-tiger.png",
+      "is_available": true,
+      "description": "Male standing on white with yellow t-shirt on, hands are on his sides.",
+      "materials": ["cotton"]
+    },
+    {
+      "product_name": "Jacket",
+      "price": 4.99,
+      "image_url": "https://img.freepik.com/premium-vector/realistic-grey-jacket-leather-white-background-vector-illustration_33869-2337.jpg?w=2000",
+      "is_available": true,
+      "description": "Blank template black down jacket with zipped, front and back view isolated on white background. Mockup winter sport jacket",
+      "materials": ["cotton"]
+    },
+    {
+      "product_name": "Overcoat",
+      "price": 9.99,
+      "image_url": "https://media.glamour.com/photos/621e3fc175b1e32f464c7800/1:1/w_1200,h_1200,c_limit/Mango%20Oversize%20Wool%20Coat.png",
+      "is_available": true,
+       "description": "fur coat isolated on a white background. fur coat with brown natural fur.warm winter clothes top view",
+      "materials": ["fur"]
+    },
+    {
+      "product_name": "Shoes",
+      "price": 19.99,
+      "image_url": "https://orbitvu.com/wp-content/uploads/2021/11/sport-shoe-white-background.jpg",
+      "is_available": true,
+      "description": "White background has won the hearts of e-commerce businesses. This is clearly visible from the statistics presented by retouching companies, as around 75% of all product images end up with white background. Customers vote with their choices based on visual information, and these choices are all pointing to white. Is this an incentive to join the general pro-white trend in product presentation? We are asking the crucial question why “white is king” and exhaustively describing the ways you can obtain white background products.  ",
+      "materials": ["leather"]
+    }
+  ]
+]
+}
